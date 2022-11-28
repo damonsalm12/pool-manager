@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/pool-manager/static/css/main.073c9b0a.css",
-    "main.js": "/pool-manager/static/js/main.dc1c4a0f.js",
+    "main.css": "/pool-manager/static/css/main.e6c13ad2.css",
+    "main.js": "/pool-manager/static/js/main.e59e90d5.js",
     "static/js/787.45a7e623.chunk.js": "/pool-manager/static/js/787.45a7e623.chunk.js",
-    "static/media/logo.svg": "/pool-manager/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/pool-manager/index.html",
-    "main.073c9b0a.css.map": "/pool-manager/static/css/main.073c9b0a.css.map",
-    "main.dc1c4a0f.js.map": "/pool-manager/static/js/main.dc1c4a0f.js.map",
+    "main.e6c13ad2.css.map": "/pool-manager/static/css/main.e6c13ad2.css.map",
+    "main.e59e90d5.js.map": "/pool-manager/static/js/main.e59e90d5.js.map",
     "787.45a7e623.chunk.js.map": "/pool-manager/static/js/787.45a7e623.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.dc1c4a0f.js"
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.e59e90d5.js"
   ]
 }
